@@ -1,4 +1,3 @@
-
 Red
 Blue
 Yellow
@@ -11,4 +10,6 @@ Puce
 Beige
 Maroon
 Mauve
+Green
+Pink
 
